@@ -1,0 +1,9 @@
+requirements 
+
+1. matplotlib
+
+2.while
+ 
+3.plt .plot ()
+
+4.plt .show ()
